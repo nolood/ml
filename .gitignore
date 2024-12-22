@@ -1,2 +1,3 @@
 ./linear-regression/venv/*
 venv
+.idea
